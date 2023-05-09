@@ -1,7 +1,7 @@
 
-package lab_thb3_b2;
+package lab_thb3_b3;
 
-public class LAB_THB3_B2 {
+public class LAB_THB3_B3 {
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
